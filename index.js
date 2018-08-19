@@ -21,7 +21,7 @@ function inc(n) {
 }
 
 function dec(n) {
-  var numberd = n 
+  var numberd= n 
   number -= 1 
   return number
 }
