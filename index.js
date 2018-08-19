@@ -15,10 +15,13 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  return parseInt(n)++
+  var number = n
+  number++
+  return number
 }
 
 function dec(n) {
-  return parseInt(n)--
+  var numberd = n 
+  return number--
 }
 
