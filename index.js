@@ -22,8 +22,8 @@ function inc(n) {
 
 function dec(n) {
   var numberd = n 
-  numberd -= 1 
-  return numberd
+  number -= 1 
+  return number
 }
 
 function makeint(n) {
