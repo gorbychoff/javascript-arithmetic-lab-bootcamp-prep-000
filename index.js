@@ -16,13 +16,16 @@ function divide(a, b) {
 
 function inc(n) {
   var number = n
-  number++
+  number += 1
   return number
 }
 
 function dec(n) {
   var numberd = n 
-  numberd--
+  numberd -= 1 
   return numberd
 }
 
+function makeint(n) {
+  
+}
